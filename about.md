@@ -5,6 +5,6 @@ tags: about
 layout: page
 ---
 
-Article Intelligence Blog
+Article Intelligence Blog.
 
 Copyright 2016 AI.cards℠. All rights reserved.
